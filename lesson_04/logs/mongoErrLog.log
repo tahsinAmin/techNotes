@@ -1,0 +1,12 @@
+20230209	08:02:36	0ebca22f-ed07-4274-bfb3-3ac533ec8395	undefined: undefined	undefined	undefined
+20230209	08:07:05	821433b4-5ca1-4e35-afed-f245ea50eaee	undefined: undefined	undefined	undefined
+20230223	11:48:05	81d5540a-e850-493e-b97d-fcbe1a76df5f	undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.okjwhgt.mongodb.net
+20230223	11:48:14	6b733f82-a1da-4484-a7d9-821699fd7b4b	undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.okjwhgt.mongodb.net
+20230223	11:48:35	efd10448-feb9-416d-9549-8d0a9f86fd57	undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.okjwhgt.mongodb.net
+20230223	11:48:50	e4a970d8-ba5e-436d-aa9f-7ad2217efb1c	undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.okjwhgt.mongodb.net
+20230223	11:49:13	1f744896-742c-4a03-8ab9-c0ddd63860d3	undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.okjwhgt.mongodb.net
+20230223	11:49:33	93e3dd10-12aa-4d4e-b48b-9ae0a81a7b44	undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.okjwhgt.mongodb.net
+20230223	11:50:04	0aa3a928-d9d4-45f2-b06e-7aa3872b95b4	undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.okjwhgt.mongodb.net
+20230223	11:50:08	034eeae8-8c72-4134-86cd-3878f2855244	undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.okjwhgt.mongodb.net
+20230223	11:50:10	cfd48e72-4905-46bf-9a64-92cfab65046e	undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.okjwhgt.mongodb.net
+20230223	11:50:12	70f4e422-7dd6-47f5-a769-ff9d0809d5a5	undefined: ECONNREFUSED	querySrv	_mongodb._tcp.cluster0.okjwhgt.mongodb.net
